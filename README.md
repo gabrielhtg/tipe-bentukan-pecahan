@@ -19,11 +19,11 @@ Berikut cara menggunakannya:
 3. Ketikkan perintah berikut untuk membuat betuk pecahan. Dengan:
    - a = pembilang
    - b = penyebut
-  ```
-  (setq nama_fungsi_1 (makep a b))
-  (setq nama_fungsi_2 (makep a b))
-  (setq nama_fungsi_3 (makep a b))
-  ```
+    ```
+    (setq nama_fungsi_1 (makep a b))
+    (setq nama_fungsi_2 (makep a b))
+    (setq nama_fungsi_3 (makep a b))
+    ```
 4. Ketikkan perintah berikut untuk menentukan pembilang.
    ```
    (pemb nama_fungsi)

@@ -11,9 +11,13 @@ Ini adalah program yang dibuat dari bahasa pemrograman LISP. Fitur-fitur dari pr
 8. Menentukan apakah pecahan-1 dengan pecahan-2 sama
 9. Menentukan apakah pecahan-1 lebih kecil dari pecahan-2
 
+Ada dua versi dari program ini
+- v1 --> manual
+- v2 --> ada pertanyaan
+
 ## <b>How to Use?</b>
 
-Berikut cara menggunakannya:
+Berikut cara menggunakan v1:
 1. Buka CLISP.
 2. Kemudian load file ini.
 3. Ketikkan perintah berikut untuk membuat betuk pecahan. Dengan:
@@ -56,6 +60,15 @@ Berikut cara menggunakannya:
     ```
     (isltp nama_fungsi_1 nama_fungsi_2)
     ```
+
+Cara menggunakan v2
+1. Buka CLISP.
+2. Load file ini.
+3. Ketikkan 
+4. ```
+5. makep
+6. ```
+7. Isikan sesuai dengan pertanyaan dengan angka.
 
 ## <b>About Me</b>
 

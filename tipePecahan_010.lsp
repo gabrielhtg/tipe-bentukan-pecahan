@@ -29,10 +29,17 @@
 
 ; makep:: fractions --> fraction
 ; -------------------------------------------------------------------------------------------------------
-(defun makep(a b)
+(defun makep()
+    (princ "Masukkan pembilang: ")
+    (setq a (read))
+    (princ "Masukkan penyebut: ")
+    (setq b (read))
     (list a '/ b)
 )
 
+; (defun makep(a b)
+;     (list a '/ b)
+; )
 ; -------------------------------------------------------------------------------------------------------
 ; DEFENISI DAN SPESIFIKASI OPERATOR
 

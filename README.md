@@ -15,6 +15,8 @@ Ada dua versi dari program ini
 - v1 --> manual
 - v2 --> ada pertanyaan
 
+Klik link berikut untuk melihat cara pembuatannya
+<button><a href="https://youtu.be/2RwguNcmu_g">Click Here</a></button>
 ## <b>How to Use?</b>
 
 Berikut cara menggunakan v1:

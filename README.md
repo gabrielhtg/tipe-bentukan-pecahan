@@ -67,10 +67,10 @@ Cara menggunakan v2
 1. Buka CLISP.
 2. Load file ini.
 3. Ketikkan 
-4. ```
-5. makep
-6. ```
-7. Isikan sesuai dengan pertanyaan dengan angka.
+    ```
+    makep
+    ```
+4. Isikan sesuai dengan pertanyaan dengan angka.
 
 ## <b>About Me</b>
 
